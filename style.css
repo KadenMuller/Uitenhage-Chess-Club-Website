@@ -1,9 +1,11 @@
-.intro (
-background color: blue;
+.intro {
+    background-color: blue;
+    color: white;
+};
 
-);
+.headtitle {
 
-.headtitle (
-color: red;
+    color: red;
+    background-color:khaki;
 
-)
+}
